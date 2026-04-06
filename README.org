@@ -1,0 +1,9 @@
+* telos
+
+Intent introspection for Common Lisp — make the WHY queryable.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/quasi/telos.git                    |
+| commit  | 0000000                                                    |
+| systems |                                                           |
+|---------+------------------------------------------------------------|
